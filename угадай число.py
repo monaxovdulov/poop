@@ -10,4 +10,4 @@ while True:
     else:
         print("не хорош")
         attempt=attempt+1
-        print(attempt, "мне лень писать  твои попытки так что их выведет комп  ")
+        
